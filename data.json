@@ -1,62 +1,11 @@
 {
-  "paragraphen": [],
-  "metadata": {
-    "version": "1.0",
-    "lastUpdated": "2025-12-27T00:00:00.000Z",
-    "totalParagraphen": 0,
-    "system": "FPersV & EG-VO Master",
-    "description": "Lenk- und Ruhezeiten Datenbank für Fahrlehrer",
-    "gesetze": [
-      "FPersV - Fahrpersonalverordnung",
-      "VO (EG) 561/2006 - EU-Sozialvorschriften"
-    ]
-  }
+  "paragraphen": [
+    {
+      "nummer": "§1 FPersV",
+      "titel": "Lenk- und Ruhezeiten im Straßenverkehr",
+      "gesetzestext": "(1) Fahrer\n1.\nvon Fahrzeugen, die zur Güterbeförderung dienen und deren zulässige Höchstmasse einschließlich Anhänger oder Sattelanhänger mehr als 2,8 Tonnen und nicht mehr als 3,5 Tonnen beträgt, sowie\n2.\nvon Fahrzeugen, die zur Personenbeförderung dienen, nach ihrer Bauart und Ausstattung geeignet und dazu bestimmt sind, mehr als neun Personen einschließlich Fahrer zu befördern, und im Linienverkehr mit einer Linienlänge bis zu 50 Kilometern eingesetzt sind,\nhaben Lenkzeiten, Fahrtunterbrechungen und Ruhezeiten nach Maßgabe der Artikel 4, 6 bis 9 und 12 der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates vom 15. März 2006 zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr und zur Änderung der Verordnungen (EWG) Nr. 3821/85 und (EG) Nr. 2135/98 des Rates sowie zur Aufhebung der Verordnung (EWG) Nr. 3820/85 des Rates (ABl. EU Nr. L 102 S. 1) einzuhalten.\n(2) Absatz 1 findet keine Anwendung auf\n1.\nFahrzeuge, die in § 18 genannt sind,\n2.\nFahrzeuge, die in Artikel 3 Buchstabe b bis i der Verordnung (EG) Nr. 561/2006 genannt sind,\n3.\nFahrzeuge, die zur Beförderung von Material, Ausrüstungen oder Maschinen, die der Fahrer zur Ausübung seiner beruflichen Tätigkeit benötigt, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,\n3a.\nFahrzeuge, die zur Beförderung von Gütern, die im Betrieb, dem der Fahrer angehört, in handwerklicher Fertigung oder Kleinserie hergestellt wurden oder deren Reparatur im Betrieb vorgesehen ist oder durchgeführt wurde, verwendet werden, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt,\n4.\nFahrzeuge, die als Verkaufswagen auf öffentlichen Märkten oder für den ambulanten Verkauf verwendet werden und für diese Zwecke besonders ausgestattet sind, soweit das Lenken des Fahrzeugs nicht die Haupttätigkeit des Fahrers darstellt, und\n5.\nselbstfahrende Arbeitsmaschinen nach § 2 Nr. 17 der Fahrzeug-Zulassungsverordnung.\n(3) Abweichend von Absatz 1 in Verbindung mit Artikel 7 der Verordnung (EG) Nr. 561/2006 haben Fahrer von Kraftomnibussen im Linienverkehr mit einer Linienlänge bis zu 50 Kilometern Fahrtunterbrechungen nach Maßgabe der folgenden Vorschriften einzuhalten:\n1.\nBeträgt der durchschnittliche Haltestellenabstand mehr als drei Kilometer, so ist nach einer Lenkzeit von viereinhalb Stunden eine Fahrtunterbrechung von mindestens 30 zusammenhängenden Minuten einzulegen. Diese Fahrtunterbrechung kann durch zwei Teilunterbrechungen von jeweils mindestens 20 zusammenhängenden Minuten oder drei Teilunterbrechungen von jeweils mindestens 15 Minuten ersetzt werden. Die Teilunterbrechungen müssen innerhalb der Lenkzeit von höchstens viereinhalb Stunden oder teils innerhalb dieser Zeit und teils unmittelbar danach liegen.\n2.\nBeträgt der durchschnittliche Haltestellenabstand nicht mehr als drei Kilometer, sind als Fahrtunterbrechungen auch Arbeitsunterbrechungen ausreichend, soweit diese nach den Dienst- und Fahrplänen in der Arbeitsschicht enthalten sind (z. B. Wendezeiten). Voraussetzung hierfür ist, dass die Gesamtdauer der Arbeitsunterbrechungen mindestens ein Sechstel der vorgesehenen Lenkzeit beträgt. Nach einer ununterbrochenen Lenkzeit von viereinhalb Stunden ist eine Fahrtunterbrechung von mindestens 45 Minuten erforderlich. Arbeitsunterbrechungen unter zehn Minuten werden bei der Berechnung der Gesamtdauer nicht berücksichtigt. Durch Tarifvertrag kann vereinbart werden, dass Arbeitsunterbrechungen von mindestens acht Minuten berücksichtigt werden können, wenn ein Ausgleich vorgesehen ist, der die ausreichende Erholung des Fahrers erwarten lässt. Für Fahrer, die nicht in einem Arbeitsverhältnis stehen, kann die nach Landesrecht zuständige Behörde entsprechende Abweichungen bewilligen.\n(4) Abweichend von Absatz 1 in Verbindung mit Artikel 8 Abs. 6 der Verordnung (EG) Nr. 561/2006 sind Fahrer der in Absatz 1 Nr. 2 genannten Fahrzeuge nicht zur Einlegung einer wöchentlichen Ruhezeit nach höchstens sechs 24-Stunden-Zeiträumen verpflichtet. Sie können die wöchentlich einzuhaltenden Ruhezeiten auf einen Zweiwochenzeitraum verteilen.\n(5) Der Unternehmer hat dafür zu sorgen, dass die Vorschriften über die Lenkzeiten, die Fahrtunterbrechungen und die Ruhezeiten gemäß den Artikeln 4, 6 bis 9 und 12 der Verordnung (EG) Nr. 561/2006 eingehalten werden. Artikel 10 Abs. 2 der Verordnung (EG) Nr. 561/2006 findet entsprechende Anwendung.\n(6) Der Fahrer eines in Absatz 1 Nr. 1 genannten Fahrzeugs hat, sofern dieses Fahrzeug nicht nach Absatz 2 ausgenommen ist, folgende Zeiten aufzuzeichnen:\n1.\nLenkzeiten,\n2.\nalle sonstigen Arbeitszeiten einschließlich der Bereitschaftszeiten,\n3.\nFahrtunterbrechungen und\n4.\ntägliche und wöchentliche Ruhezeiten.\nDie Aufzeichnungen sind für jeden Tag getrennt zu fertigen und müssen folgende Angaben enthalten:\n1.\nVor- und Familienname,\n2.\nDatum,\n3.\namtliche Kennzeichen der benutzten Fahrzeuge,\n4.\nOrt des Fahrtbeginns,\n5.\nOrt des Fahrtendes und\n6.\nKilometerstände der benutzten Fahrzeuge bei Fahrtbeginn und Fahrtende.\nDer Fahrer hat alle Eintragungen jeweils unverzüglich zu Beginn und am Ende der Lenkzeiten, Fahrtunterbrechungen und Ruhezeiten vorzunehmen. Die Aufzeichnungen des laufenden Tages und der vorausgegangenen 28 Kalendertage sind vom Fahrer mitzuführen und den zuständigen Personen auf Verlangen zur Prüfung auszuhändigen. Hat der Fahrer während des in Satz 4 genannten Zeitraums ein Fahrzeug gelenkt, für das\n1.\ndie Verordnung (EU) Nr. 165/2014 des Europäischen Parlaments und des Rates vom 4. Februar 2014 über Fahrtenschreiber im Straßenverkehr, zur Aufhebung der Verordnung (EWG) Nr. 3821/85 des Rates über das Kontrollgerät im Straßenverkehr und zur Änderung der Verordnung (EG) Nr. 561/2006 des Europäischen Parlaments und des Rates zur Harmonisierung bestimmter Sozialvorschriften im Straßenverkehr (ABl. L 60 vom 28.2.2014, S. 1) in der jeweils geltenden Fassung oder\n2.\ndas Europäische Übereinkommen vom 1. Juli 1970 über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) (BGBl. 1974 II S. 1473, 1475) in der jeweils geltenden Fassung\ngilt, sind für dieses Fahrzeug Nachweise nach Maßgabe von Artikel 36 Absatz 1 und 2 der Verordnung (EU) Nr. 165/2014 oder von Artikel 12 Absatz 7 des Anhangs zum Europäischen Übereinkommen vom 1. Juli 1970 über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) an Stelle der Aufzeichnungen mitzuführen. Der Fahrer hat dem Unternehmer alle Aufzeichnungen unverzüglich nach Ablauf der Mitführungspflicht auszuhändigen. Der Unternehmer hat\n1.\ndem Fahrer entsprechend dem Muster der Anlage 1 geeignete Vordrucke zur Fertigung der Aufzeichnungen in ausreichender Anzahl auszuhändigen,\n2.\ndie Aufzeichnungen unverzüglich nach Aushändigung durch den Fahrer zu prüfen und unverzüglich Maßnahmen zu ergreifen, die notwendig sind, um die Beachtung der Sätze 1 bis 5 zu gewährleisten,\n3.\ndie Aufzeichnungen ein Jahr lang nach Aushändigung durch den Fahrer in chronologischer Reihenfolge und in lesbarer Form außerhalb des Fahrzeugs aufzubewahren und den zuständigen Personen auf Verlangen vorzulegen und\n4.\ndie Aufzeichnungen nach Ablauf der Aufbewahrungsfrist bis zum 31. März des folgenden Kalenderjahres zu vernichten, soweit sie nicht zur Erfüllung der Aufbewahrungspflichten nach § 16 Abs. 2 und § 21a Abs. 7 des Arbeitszeitgesetzes, § 147 Abs. 1 Nr. 5 in Verbindung mit Abs. 3 der Abgabenordnung, § 28f Abs. 1 Satz 1 des Vierten Buches Sozialgesetzbuch, § 17 Absatz 2 des Mindestlohngesetzes, § 19 Absatz 2 des Arbeitnehmer-Entsendegesetzes oder § 17c Absatz 2 des Arbeitnehmerüberlassungsgesetzes benötigt werden.\n(7) Ist das Fahrzeug mit einem analogen Fahrtenschreiber nach Artikel 2 Absatz 2 Buchstabe g der Verordnung (EU) Nr. 165/2014 oder einem digitalen Fahrtenschreiber nach Artikel 2 Absatz 2 Buchstabe h der Verordnung (EU) Nr. 165/2014 oder einem Fahrtschreiber nach § 57a Absatz 1 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung ausgerüstet, haben Fahrer der in Absatz 1 Nummer 1 genannten Fahrzeuge diese entsprechend Artikel 27 Absatz 2, Artikel 32 Absatz 1 bis 4, Artikel 33 Absatz 1 Unterabsatz 3, Artikel 34 Absatz 1 bis 3 Unterabsatz 1, Absatz 4 bis 7, Artikel 35 Absatz 2 und Artikel 37 Absatz 2 der Verordnung (EU) Nr. 165/2014 oder § 57a Absatz 2 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung zu betreiben. Im Falle der Verwendung eines Fahrtschreibers gemäß § 57a der Straßenverkehrs-Zulassungs-Ordnung hat der Fahrer die Schicht und die Pausen jeweils bei Beginn und Ende auf dem Schaublatt zu vermerken. Der Unternehmer hat bei Verwendung eines analogen Fahrtenschreibers oder eines Fahrtschreibers nach § 57a Absatz 1 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung dem Fahrer vor Beginn der Fahrt die für das Gerät zugelassenen Schaublätter entsprechend Artikel 33 Absatz 1 Unterabsatz 2 der Verordnung (EU) Nr. 165/2014 in ausreichender Anzahl auszuhändigen, bei Verwendung eines digitalen Fahrtenschreibers dafür zu sorgen, dass entsprechend Artikel 33 Absatz 1 Unterabsatz 3 der Verordnung (EU) Nr. 165/2014 der Ausdruck von Daten aus dem Fahrtenschreiber im Falle einer Nachprüfung ordnungsgemäß erfolgen kann und entsprechend Artikel 33 Absatz 1 Unterabsatz 1 der Verordnung (EU) Nr. 165/2014 dafür zu sorgen, dass der analoge oder digitale Fahrtenschreiber oder der Fahrtschreiber nach § 57a Absatz 1 Satz 1 der Straßenverkehrs-Zulassungs-Ordnung ordnungsgemäß benutzt wird; Absatz 6 Satz 4 bis 6 und 7 Nummer 2 bis 4 gilt entsprechend. Hat der Fahrer eines mit einem digitalen Fahrtenschreiber ausgerüsteten Fahrzeugs in dem in Absatz 6 Satz 4 genannten Zeitraum ein Fahrzeug gelenkt, das mit einem analogen Fahrtenschreiber ausgerüstet ist, hat er die Schaublätter dieses Fahrtenschreibers während der Fahrt ebenfalls mitzuführen und den zuständigen Personen auf Verlangen zur Prüfung auszuhändigen.\n(8) Der Unternehmer, der Fahrer mit Fahrzeugen nach Absatz 1 Nummer 2 einsetzt, hat zum Nachweis der in Absatz 1 genannten Zeiten vor Fahrtantritt Fahrpläne und Arbeitszeitpläne nach Maßgabe des Artikels 16 Absatz 2 Satz 1 und Absatz 3 Buchstabe a und b der Verordnung (EG) Nr. 561/2006 aufzustellen und ein Jahr nach Ablauf des Gültigkeitszeitraums aufzubewahren. Fahrer von Fahrzeugen nach Absatz 1 Nummer 2 haben einen Auszug aus dem Arbeitszeitplan und eine Ausfertigung des Fahrplans, der die gerade durchgeführte Fahrt betrifft, mitzuführen.\n(9) Absatz 8 gilt nicht, wenn das Fahrzeug mit einem Fahrtschreiber nach § 57a Absatz 1 der Straßenverkehrs-Zulassungs-Ordnung in der bis zum 31. Dezember 2012 geltenden Fassung ausgerüstet ist. In diesem Fall findet § 57a Absatz 2 und § 57b der Straßenverkehrs-Zulassungs-Ordnung Anwendung.\n(10) Absatz 8 gilt nicht, wenn das Fahrzeug mit einem analogen oder digitalen Fahrtenschreiber ausgerüstet ist. In diesem Fall findet § 57a Absatz 3 der Straßenverkehrs-Zulassungs-Ordnung Anwendung.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__1.html",
+      "praxisbeispiele": []
+    }
+  ]
 }
-```
-
-**→ Dann "Commit changes" klicken!**
-
----
-
-## 📄 **2. JA - README.md erstellen:**
-
-**In GitHub:**
-1. Klicke "Add file" → "Create new file"
-2. Dateiname: `README.md`
-3. Füge den kompletten Markdown-Text ein (aus dem Dokument)
-4. "Commit new file"
-
----
-
-## 💾 **3. Die HTML-Tool wohin?**
-
-Die **`fpersv-eg-master.html`** bleibt **LOKAL auf deinem PC!**
-
-### **NICHT auf GitHub hochladen!**
-
-**Warum?**
-- Das ist dein **Editor-Tool** (nur für dich)
-- Funktioniert lokal im Browser
-- Greift per GitHub-Token auf dein Repository zu
-- Speichert Daten direkt in `data.json` auf GitHub
-
-### **Wo speichern?**
-
-**Option A: In einem separaten Ordner** (empfohlen)
-```
-C:\Users\[DeinName]\FL-Tools\
-└── fpersv-eg-master.html
-```
-
-**Option B: Im gleichen Ordner wie das Repo**
-```
-C:\Users\[DeinName]\FL-FPersV-EG-VO\
-├── data.json (für GitHub)
-├── README.md (für GitHub)
-└── fpersv-eg-master.html (NUR LOKAL - nicht hochladen!)
-```
-
-Wenn Option B → **Wichtig:** Erstelle eine `.gitignore` Datei im Ordner:
-```
-fpersv-eg-master.html
-*.html
