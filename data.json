@@ -253,6 +253,46 @@
           "wichtigkeit": "BANAL"
         }
       ]
+    },
+    {
+      "id": "1766856779859",
+      "gesetz": "FPersV",
+      "nummer": "§ 19",
+      "titel": "§ 19 Fahrtenschreiber nach dem Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR)",
+      "gesetzestext": "Auf Grund des Artikels 3 Absatz 1, des Artikels 10 Absatz 1 und des Artikels 13 Absatz 1 des AETR in Verbindung mit Artikel 2 Abs. 3 der Verordnung (EG) Nr. 561/2006 hat der Unternehmer in Fahrzeuge, die dem AETR unterliegen und mit denen das Hoheitsgebiet der Bundesrepublik Deutschland befahren wird, vor Antritt derartiger Fahrten Fahrtenschreiber einbauen zu lassen. Die Fahrtenschreiber nach Satz 1 sind von dem Fahrer zu benutzen. Die Fahrtenschreiber sind nach den Artikeln 10 bis 14 des Anhangs zum AETR zu betreiben. Bauart, Einbau, Benutzung und Prüfung der Fahrtenschreiber richten sich nach den Vorschriften des AETR einschließlich seines Anhangs und der Anlagen. Fahrtenschreiber im Sinne der Verordnung (EU) Nr. 165/2014 erfüllen die Anforderungen nach Satz 4.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__19.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1766856797387",
+      "gesetz": "FPersV",
+      "nummer": "§ 20",
+      "titel": "§ 20 Nachweis über berücksichtigungsfreie Tage",
+      "gesetzestext": "(1) Selbstfahrende Unternehmer und Fahrer, die die in dieser Verordnung, in Artikel 36 Absatz 2 der Verordnung (EU) Nr. 165/2014 oder in Kapitel III Artikel 12 Absatz 2 Satz 1 des Anhangs zum Europäischen Übereinkommen über die Arbeit des im internationalen Straßenverkehr beschäftigten Fahrpersonals (AETR) vorgeschriebenen Nachweise nicht oder nicht vollständig vorlegen können, weil sie an einem oder mehreren der vorausgegangenen 28 Kalendertage\n1.\nein Fahrzeug gelenkt haben, für dessen Führen eine Nachweispflicht nicht besteht,\n2.\nerkrankt waren,\n3.\nsich im Urlaub befanden oder\n4.\naus anderen Gründen kein Fahrzeug gelenkt haben,\nhaben diese Zeiten durch manuelle Nachträge nach den Absätzen 2 oder 3 zu belegen. Der Unternehmer hat dafür zu sorgen, dass der Fahrer die manuellen Nachträge nach den Absätzen 2 oder 3 vornimmt.\n(2) Manuelle Nachträge im Sinne des Absatzes 1 Satz 1 müssen bei Verwendung eines digitalen Fahrtenschreibers vor Fahrtantritt mittels der manuellen Eingabevorrichtung des Fahrtenschreibers auf der Fahrerkarte erfolgen. Ist ein manueller Nachtrag nach Satz 1 aus technischen Gründen nicht möglich, findet Absatz 3 Anwendung.\n(3) Manuelle Nachträge im Sinne des Absatzes 1 Satz 1 müssen bei Verwendung eines analogen Fahrtenschreibers, eines Nachweises nach § 1 Absatz 6 oder im Falle des Absatzes 2 Satz 2 vor Fahrtantritt lesbar unter Verwendung der in Artikel 34 Absatz 5 der Verordnung (EU) Nr. 165/2014 aufgeführten Zeichen erfolgen. Der Nachtrag ist auf der Rückseite des nächsten im Anschluss an den berücksichtigungsfreien Zeitraum verwendeten Schaublattes oder Fahrtenschreiberausdruckes (Ausdruck der Tätigkeiten des Fahrers am Fahrtag) oder auf einem Nachweis nach § 1 Absatz 6 vorzunehmen. Bei Bedarf können auch mehrere Schaublätter, Fahrtenschreiberausdrucke oder Nachweise nach § 1 Absatz 6 benutzt werden.\n(4) Ist ein manueller Nachtrag nach Absatz 2 Satz 1 aus technischen Gründen nicht möglich oder besonders aufwendig, darf abweichend von den Absätzen 2 und 3 bei einer Kontrolle eine Bescheinigung des Unternehmens über die im Absatz 1 genannten Zeiten vorgelegt werden. Die Bescheinigung darf nicht handschriftlich ausgefüllt werden. Der Unternehmer hat dem betroffenen Fahrer die Bescheinigung mit den Gründen für das Fehlen von Arbeitszeitnachweisen vor Fahrtantritt auszustellen und auszuhändigen sowie dafür zu sorgen, dass der Fahrer die Bescheinigung während der Fahrt mit sich führt. Der selbstfahrende Unternehmer hat die Bescheinigung vor Fahrtantritt auszustellen und zu unterzeichnen. Im Übrigen ist die Bescheinigung vom Unternehmer oder einer von ihm beauftragten Person und vom Fahrer vor Fahrtantritt zu unterzeichnen. Der Fahrer darf die Bescheinigung nicht als beauftragte Person unterzeichnen. Im Fall einer Beauftragung hat der Unternehmer dafür zu sorgen, dass die beauftragte Person die Bescheinigung unterzeichnet. Die Bescheinigung darf von dem Fahrer bei der Kontrolle als Telefax oder Ausdruck einer digitalisierten Kopie zur Verfügung gestellt werden.\n(5) Nach Ablauf des Nachweiszeitraumes nach Absatz 1 hat der Fahrer die Nachweise nach den Absätzen 3 und 4 unverzüglich im Unternehmen abzugeben. Der Unternehmer, der nicht zugleich Fahrer ist, hat die Nachweise ab dem Zeitpunkt der Rückgabe durch den Fahrer ein Jahr außerhalb des Fahrzeugs aufzubewahren und den Fahrern auf Verlangen eine Kopie auszuhändigen. Nach Ablauf der Aufbewahrungspflicht sind die Nachweise bis zum 31. März des folgenden Kalenderjahres zu vernichten.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__20.html",
+      "praxisbeispiele": [
+        {
+          "titel": "📅 56-Tage-Nachweispflicht bei Erstnutzung",
+          "klasse": "ALLE",
+          "beschreibung": "Bei erster Fahrt mit Kontrollgerät-Pflicht → Lückenloser Nachweis der letzten 56 Tage erforderlich! → Auch Privatfahrten dokumentieren!",
+          "wichtigkeit": "CRITICAL"
+        },
+        {
+          "titel": "🍺 Brauerei-Ausflug mit Firmen-Sprinter (B) - WITZIG",
+          "klasse": "B",
+          "beschreibung": "Mitarbeiter fährt Kollegen zur Betriebsfeier in Brauerei → Firma zahlt Sprit + 30€ 'Danke' → ENTGELTLICH! → Rückfahrt nach Bierprobe = zusätzlich problematisch 😄",
+          "wichtigkeit": "BANAL"
+        }
+      ]
+    },
+    {
+      "id": "1766856827689",
+      "gesetz": "FPersV",
+      "nummer": "§ 20a",
+      "titel": "§ 20a Verantwortlichkeiten",
+      "gesetzestext": "(1) Die Verkehrsunternehmen sind verpflichtet, ihren Betrieb nach Maßgabe von Artikel 10 Abs. 1 und 2 der Verordnung (EG) Nr. 561/2006 zu organisieren. Dies gilt auch für Fahrten im Hoheitsgebiet eines anderen Mitgliedstaates der Europäischen Union, eines Vertragsstaates des Abkommens über den Europäischen Wirtschaftsraum oder eines Drittstaates.\n(2) Neben den Verkehrsunternehmen sind auch die mit diesen in geschäftlicher Verbindung stehenden Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen für die Einhaltung der Vorschriften der Verordnung (EG) Nr. 561/2006 und der vorliegenden Verordnung verantwortlich. Die an der Beförderungskette beteiligten Unternehmen haben mit dem Ziel, die Einhaltung der Vorschriften zu gewährleisten, zusammenzuarbeiten und sich abzustimmen. Der jeweilige Auftraggeber hat dafür Sorge zu tragen, dass das beauftragte Verkehrsunternehmen die Vorschriften einhält. Er hat sich vor dem Vertragsabschluss mit einem Verkehrsunternehmen und während der Vertragslaufzeit in angemessenen Zeitabständen darüber zu vergewissern und darauf hinzuwirken, dass das beauftragte Verkehrsunternehmen aufgrund seiner personellen und sachlichen Ausstattung sowie seiner betrieblichen Organisation in der Lage ist, die vorgesehenen Transportaufträge unter Einhaltung der Vorschriften durchzuführen.\n(3) Die Verkehrsunternehmen, Verlader, Spediteure, Reiseveranstalter, Hauptauftragnehmer, Unterauftragnehmer und Fahrervermittlungsagenturen stellen sicher, dass die vertraglich vereinbarten Beförderungszeitpläne nicht gegen die Verordnung (EG) Nr. 561/2006 verstoßen.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__20a.html",
+      "praxisbeispiele": []
     }
   ]
 }
