@@ -155,6 +155,55 @@
       "gesetzestext": "Die Kontrollkarten werden an die für die Kontrolle der Sozialvorschriften im Straßenverkehr zuständigen Behörden und Stellen sowie an die für die Prüfungen nach § 2 Absatz 1 des Schwarzarbeitsbekämpfungsgesetzes zuständigen Behörden der Zollverwaltung ausgegeben. Die Kontrollkarte weist die Kontrollbehörde aus und ermöglicht das Lesen, Ausdrucken und Herunterladen der im Massenspeicher des Fahrtenschreibers oder auf Fahrerkarten gespeicherten Daten. Die Gültigkeitsdauer der Kontrollkarte beträgt fünf Jahre.",
       "quelle": "https://www.gesetze-im-internet.de/fpersv/__10.html",
       "praxisbeispiele": []
+    },
+    {
+      "id": "1766856562802",
+      "gesetz": "FPersV",
+      "nummer": "§ 11",
+      "titel": "§ 11 Führung und Zweckbestimmung des Registers",
+      "gesetzestext": "(1) Das Kraftfahrt-Bundesamt führt nach § 2 Nr. 4 des Fahrpersonalgesetzes das Zentrale Fahrtenschreiberkartenregister zum Nachweis der von den zuständigen Behörden oder Stellen ausgegebenen Fahrtenschreiberkarten. Darin werden erfasst die Identifizierungsdaten der Fahrer, verantwortlichen Fachkräfte, Unternehmen und Behörden, denen Fahrer-, Werkstatt-, Unternehmens- oder Kontrollkarten ausgestellt worden sind, und die Identifizierungsdaten der ausgestellten, abhanden gekommenen und defekten Fahrer-, Werkstatt-, Unternehmens- und Kontrollkarten.\n(2) Das Register wird geführt zur Speicherung von Identifizierungsdaten, die erforderlich sind, um feststellen zu können, welche Karten eine Person, ein Unternehmen oder eine Kontrollbehörde besitzt oder welche Karten abhanden gekommen oder beschädigt sind.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__11.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1766856582719",
+      "gesetz": "FPersV",
+      "nummer": "§ 12",
+      "titel": "§ 12 Inhalt des Registers",
+      "gesetzestext": "Im Zentralen Fahrtenschreiberkartenregister werden gespeichert über\n1.\nFahrerkarten folgende Daten:\na)\nGeburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht,\nb)\nFahrtenschreiberkartennummer und die vom Chiphersteller eingebrachte Chipkennung,\nc)\nTag des Beginns und des Ablaufs der Gültigkeit der Fahrerkarte,\nd)\nTag der Produktion der Fahrerkarte,\ne)\nStatus der Fahrerkarte,\nf)\nantragsbearbeitende und mitteilende Behörde oder Stelle einschließlich der für die Antragsbearbeitung verantwortlichen Person,\ng)\nFahrerlaubnisnummer einschließlich Ausgabestaat,\nh)\nbei Verlust oder Diebstahl das Datum des Abhandenkommens der Fahrerkarte;\n2.\nWerkstattkarten folgende Daten:\na)\nName und Anschrift der Werkstatt, des Herstellers von Fahrtenschreibern oder des Fahrzeugherstellers, bei der Anschrift zusätzlich die statistische Kennziffer des Firmensitzes sowie der Standortgemeinde und des Gemeindeteils,\nb)\nGeburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Unternehmers, bei juristischen Personen der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berufenen Personen,\nc)\nGeburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht der Person, auf die die Karte nach § 7 Abs. 2 Nr. 4 ausgestellt wurde,\nd)\nFahrtenschreiberkartennummer und die vom Chiphersteller eingebrachte Chipkennung,\ne)\nTag des Beginns und des Ablaufs der Gültigkeit der Werkstattkarte,\nf)\nTag der Produktion der Werkstattkarte,\ng)\nStatus der Werkstattkarte,\nh)\nantragsbearbeitende und mitteilende Behörde oder Stelle einschließlich der für die Antragsbearbeitung verantwortlichen Person,\ni)\nbei Verlust oder Diebstahl das Datum des Abhandenkommens der Werkstattkarte;\n3.\nUnternehmenskarten folgende Daten:\na)\nName und Anschrift des Unternehmens sowie die statistische Kennziffer des Firmensitzes, der Standortgemeinde und des Gemeindeteils,\nb)\nGeburts- und Familienname, Vornamen, Tag und Ort der Geburt, akademischer Grad und Geschlecht des Unternehmers, bei juristischen Personen der nach Gesetz, Satzung oder Gesellschaftsvertrag zur Vertretung berufenen Personen,\nc)\nFahrtenschreiberkartennummer und die vom Chiphersteller eingebrachte Chipkennung,\nd)\nTag des Beginns und des Ablaufs der Gültigkeit der Unternehmenskarte,\ne)\nTag der Produktion der Unternehmenskarte,\nf)\nantragsbearbeitende und mitteilende Behörde oder Stelle einschließlich der für die Antragsbearbeitung verantwortlichen Person,\ng)\nStatus der Unternehmenskarte,\nh)\nbei Verlust oder Diebstahl das Datum des Abhandenkommens der Unternehmenskarte;\n4.\nKontrollkarten folgende Daten:\na)\nName und Anschrift der Behörde,\nb)\nFahrtenschreiberkartennummer und die vom Chiphersteller eingebrachte Chipkennung,\nc)\nTag des Beginns und des Ablaufs der Gültigkeit der Kontrollkarte,\nd)\nTag der Produktion der Kontrollkarte,\ne)\nStatus der Kontrollkarte,\nf)\nbei Verlust oder Diebstahl das Datum des Abhandenkommens der Kontrollkarte.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__12.html",
+      "praxisbeispiele": []
+    },
+    {
+      "id": "1766856598058",
+      "gesetz": "FPersV",
+      "nummer": "§ 13",
+      "titel": "§ 13 Löschung von Eintragungen im Zentralen Fahrtenschreiberkartenregister",
+      "gesetzestext": "Die Daten über Fahrtenschreiberkarten werden fünf Jahre nach Ablauf der Gültigkeitsdauer gelöscht.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__13.html",
+      "praxisbeispiele": [
+        {
+          "titel": "📅 56-Tage-Nachweispflicht bei Erstnutzung",
+          "klasse": "ALLE",
+          "beschreibung": "Bei erster Fahrt mit Kontrollgerät-Pflicht → Lückenloser Nachweis der letzten 56 Tage erforderlich! → Auch Privatfahrten dokumentieren!",
+          "wichtigkeit": "CRITICAL"
+        },
+        {
+          "titel": "🍺 Brauerei-Ausflug mit Firmen-Sprinter (B) - WITZIG",
+          "klasse": "B",
+          "beschreibung": "Mitarbeiter fährt Kollegen zur Betriebsfeier in Brauerei → Firma zahlt Sprit + 30€ 'Danke' → ENTGELTLICH! → Rückfahrt nach Bierprobe = zusätzlich problematisch 😄",
+          "wichtigkeit": "BANAL"
+        }
+      ]
+    },
+    {
+      "id": "1766856611496",
+      "gesetz": "FPersV",
+      "nummer": "§ 14",
+      "titel": "§ 14 Mitteilung an das Zentrale Fahrtenschreiberkartenregister im automatisierten Dialogverfahren",
+      "gesetzestext": "(1) Die für die Antragsbearbeitung zuständige Behörde oder Stelle teilt dem Zentralen Fahrtenschreiberkartenregister unverzüglich die zu speichernden oder zu einer Änderung einer Eintragung führenden Daten im automatisierten Dialogverfahren mit; sie teilt dem Personalisierer die zur Personalisierung notwendigen Daten mit.\n(2) Zuständige ausländische Stellen sind berechtigt, Statusänderungen zu Fahrtenschreiberkarten im automatisierten Dialogverfahren an das Zentrale Fahrtenschreiberkartenregister zu übermitteln.\n(3) Der Personalisierer teilt dem Zentralen Fahrtenschreiberkartenregister unverzüglich jeweils nach Produktion und Versand einer Fahrtenschreiberkarte eine entsprechende Information hierüber mit.",
+      "quelle": "https://www.gesetze-im-internet.de/fpersv/__14.html",
+      "praxisbeispiele": []
     }
   ]
 }
