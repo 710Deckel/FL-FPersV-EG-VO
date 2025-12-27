@@ -1,1 +1,62 @@
+{
+  "paragraphen": [],
+  "metadata": {
+    "version": "1.0",
+    "lastUpdated": "2025-12-27T00:00:00.000Z",
+    "totalParagraphen": 0,
+    "system": "FPersV & EG-VO Master",
+    "description": "Lenk- und Ruhezeiten Datenbank für Fahrlehrer",
+    "gesetze": [
+      "FPersV - Fahrpersonalverordnung",
+      "VO (EG) 561/2006 - EU-Sozialvorschriften"
+    ]
+  }
+}
+```
 
+**→ Dann "Commit changes" klicken!**
+
+---
+
+## 📄 **2. JA - README.md erstellen:**
+
+**In GitHub:**
+1. Klicke "Add file" → "Create new file"
+2. Dateiname: `README.md`
+3. Füge den kompletten Markdown-Text ein (aus dem Dokument)
+4. "Commit new file"
+
+---
+
+## 💾 **3. Die HTML-Tool wohin?**
+
+Die **`fpersv-eg-master.html`** bleibt **LOKAL auf deinem PC!**
+
+### **NICHT auf GitHub hochladen!**
+
+**Warum?**
+- Das ist dein **Editor-Tool** (nur für dich)
+- Funktioniert lokal im Browser
+- Greift per GitHub-Token auf dein Repository zu
+- Speichert Daten direkt in `data.json` auf GitHub
+
+### **Wo speichern?**
+
+**Option A: In einem separaten Ordner** (empfohlen)
+```
+C:\Users\[DeinName]\FL-Tools\
+└── fpersv-eg-master.html
+```
+
+**Option B: Im gleichen Ordner wie das Repo**
+```
+C:\Users\[DeinName]\FL-FPersV-EG-VO\
+├── data.json (für GitHub)
+├── README.md (für GitHub)
+└── fpersv-eg-master.html (NUR LOKAL - nicht hochladen!)
+```
+
+Wenn Option B → **Wichtig:** Erstelle eine `.gitignore` Datei im Ordner:
+```
+fpersv-eg-master.html
+*.html
